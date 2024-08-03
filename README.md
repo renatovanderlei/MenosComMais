@@ -1,1 +1,1 @@
-Projeto da Disciplina de Web3 do Curso de TADS do IFPE 2023.2
+Projeto da Disciplina de Processo de Desenvolvimento de Software do IFPE 2024.1
